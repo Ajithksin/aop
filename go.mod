@@ -1,3 +1,3 @@
-module github.com/SRS-Business-Solutions/telemetry-aop
+module github.com/Ajithksin/aop
 
 go 1.18
